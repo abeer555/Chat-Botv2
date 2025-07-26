@@ -1,6 +1,6 @@
 # Chat Bot v2 - AI Travel Assistant
 
-> **Hack-n-Droid Hackathon 2025 Submission**
+> **Hack-n-Droid Hackathon 2025**
 
 An intelligent travel planning chatbot built with React and Vite, powered by AI to help users plan their perfect trips with personalized recommendations.
 
@@ -25,17 +25,20 @@ An intelligent travel planning chatbot built with React and Vite, powered by AI 
 ## 📦 Installation
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/abeer555/Chat-Botv2.git
    cd Chat-Botv2
    ```
 
 2. **Install dependencies**
+
    ```bash
    npm install
    ```
 
 3. **Start development server**
+
    ```bash
    npm run dev
    ```
@@ -89,6 +92,7 @@ Chat-Botv2/
 ## 🚀 Deployment
 
 The project is configured for easy deployment on platforms like:
+
 - Vercel
 - Netlify
 - GitHub Pages
@@ -99,7 +103,7 @@ Simply run `npm run build` and deploy the `dist` folder.
 
 **Event**: Hack-n-Droid Hackathon 2025  
 **Category**: AI/ML & Web Development  
-**Theme**: Intelligent Travel Solutions  
+**Theme**: Intelligent Travel Solutions
 
 ## 📝 License
 
@@ -111,4 +115,4 @@ This is a hackathon submission. Feel free to fork and improve upon the concept!
 
 ---
 
-**Built with ❤️ for Hack-n-Droid Hackathon 2025**
+**Built with ❤️**
